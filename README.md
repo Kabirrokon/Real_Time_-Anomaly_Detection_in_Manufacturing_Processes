@@ -1,0 +1,2 @@
+# Real_Time_-Anomaly_Detection_in_Manufacturing_Processes
+Real-Time Anomaly Detection in Manufacturing Processes project
